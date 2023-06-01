@@ -937,7 +937,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3869992413076750266}
   m_Layer: 0
-  m_Name: Environment
+  m_Name: Environment_MoveToGoal
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
